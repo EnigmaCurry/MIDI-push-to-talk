@@ -12,6 +12,7 @@ via MIDI.
 
 ## Requirements
 
+ * An [Arduino Leonardo](https://docs.arduino.cc/hardware/leonardo/).
  * [Sparkfun MIDI shield](https://www.sparkfun.com/products/12898).
  * The [Arduino IDE](https://www.arduino.cc/en/software/) version 1. Version 2 is out, but it was not tested with it. Use version 1. 
  * Download the following libraries (search for them with the IDE library manager):
