@@ -1,5 +1,8 @@
 # Discord push-to-talk with MIDI controller
 
+![IMG_20240129_221627](https://github.com/EnigmaCurry/MIDI-push-to-talk/assets/43061/a358c485-a264-4ffa-8ecc-65c2c2520f8a)
+
+
 This is an Arduino sketch to interface with MIDI and the PC keyboard,
 to create a controller that allows holding a PC keyboard key
 combination with the press of a MIDI keyboard key or CC.
